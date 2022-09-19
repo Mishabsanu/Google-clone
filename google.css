@@ -1,0 +1,178 @@
+ul{
+  list-style-type: none;
+  overflow-y: hidden;
+}
+li{
+  float: right;
+}
+li a{
+  color: #000;
+  display: block;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 14px;
+}
+li a:hover{
+  text-decoration: underline;
+}
+.grid{
+  height: 23px;
+  position: relative;
+  bottom: 4px;
+
+}
+.signbutton{
+  background-color: #4885ed;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 7px 10px;
+  position: relative;
+  bottom: 7px;
+  font-weight: bold;
+
+
+}
+.main{
+
+  margin-top: -59px;
+  margin-left: 298px;
+
+  }
+.img{
+  margin-top: 172px;
+  width: 600px;
+  padding-left: 140px;
+}
+.searcBx{
+
+  padding-left: 222px;
+  margin: -92px;
+  margin-left: 95px;
+  margin-top: -71px;
+}
+
+
+.name{
+  padding: 10px;
+  padding-left: 566px;
+  border-radius: 25px;
+}
+.icon{
+  float: right;
+  margin: -21px;
+  margin-right: 430px;
+  position: relative;
+  top: -13px;
+  left: 13px;
+}
+.bar{
+  margin: 0 auto;
+  width: 575px;
+  border-radius: 30px;
+  border: 1px solid #dcdcdc;
+  margin-top: 34px;
+  margin-left: 118px;
+  padding-left: 144px;
+
+}
+.bar:hover{
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+  outline: none;
+
+}
+.searchbar{
+  height: 45px;
+  border: none;
+  width: 500px;
+  font-size: 16px;
+  outline: none;
+  margin: 1px;
+  margin-left: -123px;
+
+}
+.voice{
+  height: 20px;
+  position: relative;
+  top: 5px;
+  left: 158px;
+
+
+}
+
+.pls{
+  width: 32px;
+  padding-left: 1048px;
+  padding-top: 40px;
+
+
+}
+.plst{
+  padding-left: 1013px;
+  margin: 10px;
+  font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+  font-size: 81.25%;
+}
+.adds1{
+  margin: -74px;
+
+}
+.fb{
+  width: 33px;
+  padding-left: 942px;
+
+
+
+}
+.fbt{
+  color: #000;
+  font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+  font-size: 81.25%;
+  padding-left: 920px;
+  margin: 10px;
+
+}
+.gml{
+  width: 106px;
+  padding-left: 675px;
+  margin: -13px;
+}
+
+
+.gmlt{
+  color: #000;
+  font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+  font-size: 81.25%;
+  margin: 10px;
+  padding-left: 688px;
+
+}
+.adds3{
+  margin: -78px;
+
+
+}
+.you{
+  width: 40px;
+  padding-left: 587px;
+
+}
+.yout{
+  color: #000;
+  font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+  font-size: 81.25%;
+  padding-left: 574px;
+  margin: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
